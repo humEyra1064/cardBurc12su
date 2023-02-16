@@ -1,0 +1,13 @@
+.logoDiv{
+   width: 80%;
+    margin:auto;
+   background-color: aqua;
+    margin-top: 5px;
+    text-align: center;
+    /* background-image: url(https://imgs.stargazete.com/imgsdisk/2020/07/16/yeni-burc-duzenine-gore-y-411_2-41.jpg); */
+}
+.logo{
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+}
